@@ -1,0 +1,37 @@
+---
+title: "STAT210: Chapter 4, 6, 8 Exercises"
+output: html_notebook
+---
+####Lauren Kashiwabara
+####September 10, 2019
+
+##Chapter 4 Notes
+###Naming objects
+It's good to name objects in lowercase and use "." or "_". use the " <-" to assign something to a name. In order to see everything within that name, just type the name and run the code.
+
+###Calling functions 
+Functions are text followed by (). You can also name functions using the "<-". Named objects and functions will show up in the upper right box under the environment tab in RStudio.
+
+###4.4 Practice
+1. The code does not work because R does not recognize the object "my_varıable" because the saved obect was "my_var _i_ able"
+
+2. In order for the code to run, I switched fliter--> to filter
+
+3. Command+Shift+K previews the R Notebook
+
+##Chapter 6 Notes
+###Running scripts
+In order to run scripts on a Mac, you can use the keyboard shortcut Command+Enter or pressing the Run button above your R script. 
+
+###Diagnostics
+If there is an error in code, Rstudio will designate which line has the issue by placing an x by the line number on the left. If you scroll over the x, it will specify what is missing in your code. 
+
+###6.3 Practice
+1. I liked the tip that you could use the tab key within "" to select files. 
+2. There are often simple missed mistakes such as missing commas or characters within a particular line of code. 
+
+##Chapter 8 Notes
+It's important to create a project for a particular project, but you can store multiple related projects within the same working directory if you will be using a lot of the same datasets. 
+
+
+
